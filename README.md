@@ -23,7 +23,7 @@ My toolkit is designed to bring innovative ideas to life, from concept to deploy
 I'm always eager to collaborate on exciting projects, discuss new technologies, or simply connect with fellow enthusiasts.
 
 *   **Email:** kuramchandu4143@gmail.com
-*   **LinkedIn:** [Kuram Chandu](https://www.linkedin.com/in/kuram-chandu-4b7593256/) 
+*   **LinkedIn:** [Kuram Chandu](https://www.linkedin.com/in/kuramchandu/) 
 *   **GitHub:** [github.com/Chandu4143](https://github.com/Chandu4143)
 
 Feel free to explore my repositories, and don't hesitate to reach out! Let's build something amazing together! ✨
