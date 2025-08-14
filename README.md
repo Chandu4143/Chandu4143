@@ -11,8 +11,8 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a unique blend 
 My toolkit is designed to bring innovative ideas to life, from concept to deployment.
 
 *   **🌐 Languages:** JavaScript, TypeScript, Python, HTML/CSS
-*   **💻 Frameworks & Libraries:** React, Next.js, Node.js
-*   **⚙️ DevOps & Deployment:** Git, GitHub, Cursor, VS Code, Netlify, Vercel
+*   **💻 Frameworks & Libraries:** React, Next.js, Node.js, Express.js, MongoDB.
+*   **⚙️ DevOps & Deployment:** Git, GitHub, GitHub Copilot, Cursor, VS Code, Netlify, Vercel
 *   **🚀 CLI Tools:** Gemini Cli, Claude Code, Rovodev
 *   **🧠 AI/ML Specialties:** Prompt Engineering, RAG (Retrieval-Augmented Generation)
 
