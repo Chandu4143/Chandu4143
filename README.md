@@ -1,27 +1,20 @@
-# 👋 Hi there! I'm Kuram Chandu
-
-### 🚀 Full Stack Developer | 🧠 AI-enhanced Web Applications Enthusiast
-
-Welcome to my GitHub! I'm a passionate Full Stack Developer with a unique blend of technical prowess and a strong background in marketing, enabling me to build **stunning, data-driven, and user-centric solutions** that truly boost engagement and performance. My journey is fueled by an immense enthusiasm for leveraging cutting-edge **AI technologies** to create intelligent, dynamic web applications and powerful full-stack experiences.
+# hi there, i'm chandu
 
 ---
 
-### ✨ My Skillset
-
-My toolkit is designed to bring innovative ideas to life, from concept to deployment.
-
-*   **🌐 Languages:** JavaScript, TypeScript, Python, HTML/CSS
-*   **💻 Frameworks & Libraries:** React, Next.js, Node.js, Express.js, MongoDB.
-*   **⚙️ DevOps & Deployment:** Git, GitHub, Cursor, Netlify, Vercel.
-*   **🧠 AI/ML Specialties:** Prompt Engineering, RAG (Retrieval-Augmented Generation).
+### ✨ my skillset
+*   **🌐 languages:** javascript, typescript, python, html/css
+*   **💻 frameworks & libraries:** react, next.js, node.js, express.js, mongodb.
+*   **⚙️ devops & deployment:** git, github, cursor, netlify, vercel.
+*   **🧠 ai/ml specialties:** prompt engineering, rag (retrieval-augmented generation).
 
 ---
 
-### 📬 Let's Connect!
+### 📬 let's connect!
 
-I'm always eager to collaborate on exciting projects, discuss new technologies, or simply connect with fellow enthusiasts.
+i'm always eager to collaborate on exciting projects, discuss new technologies, or simply connect with fellow enthusiasts.
 
-*   **Email:** kuramchandu4143@gmail.com
-*   **LinkedIn:** [Kuram Chandu](https://www.linkedin.com/in/kuramchandu/) 
+*   **email:** kuramchandu4143@gmail.com
+*   **linkedin:** [kuram chandu](https://www.linkedin.com/in/kuramchandu/) 
 
-Feel free to explore my repositories, and don't hesitate to reach out! Let's build something amazing together! ✨
+feel free to explore my repositories, and don't hesitate to reach out! let's build something amazing together! ✨
