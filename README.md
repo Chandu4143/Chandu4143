@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Pixel-dot contribution banner of @Chandu4143" width="720" />
+  <img src="assets/hero.svg" alt="Pixel-dot Christmas tree banner for @Chandu4143" width="720" />
 </div>
 
 <br/>
